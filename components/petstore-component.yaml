@@ -8,6 +8,8 @@ metadata:
     - url: https://github.com/swagger-api/swagger-petstore
       title: GitHub Repo
       icon: github
+  annotations:
+      gitlab.com/project-id: '12345'
 spec:
   type: service
   lifecycle: experimental
